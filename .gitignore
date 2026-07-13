@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+dist/
+eggs/
+parts/
+sdist/
+var/
+*.egg-info/
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+.env
+.venv
+
+# Pytest
+.pytest_cache/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+output/
+database/
+__pycache__/
+.pytest_cache/
+*.pyc
+.DS_Store

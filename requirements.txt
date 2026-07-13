@@ -1,0 +1,4 @@
+duckdb
+faker
+pandas
+pytest

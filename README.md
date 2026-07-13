@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# pipeline-governance-cost-audit
-=======
 # Pipeline Governance & Cost Audit Tool
 
 Ferramenta de auditoria que analisa metadados de um data warehouse BigQuery e
